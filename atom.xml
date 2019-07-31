@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xxn123456.github.io/"/>
-  <updated>2019-07-24T15:13:21.936Z</updated>
+  <updated>2019-07-31T03:20:05.135Z</updated>
   <id>https://xxn123456.github.io/</id>
   
   <author>
@@ -17,11 +17,191 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>SpringBoot2.x 单元测试</title>
-    <link href="https://xxn123456.github.io/2019/03/02/hou-duan/spring/springboot2.x-dan-yuan-ce-shi/"/>
-    <id>https://xxn123456.github.io/2019/03/02/hou-duan/spring/springboot2.x-dan-yuan-ce-shi/</id>
-    <published>2019-03-02T09:20:00.000Z</published>
-    <updated>2019-07-24T15:13:21.936Z</updated>
+    <title>hui的开发</title>
+    <link href="https://xxn123456.github.io/2019/06/25/zu-jian-ku-chang-shi/da-jian-ji-ben-gu-jia/"/>
+    <id>https://xxn123456.github.io/2019/06/25/zu-jian-ku-chang-shi/da-jian-ji-ben-gu-jia/</id>
+    <published>2019-06-25T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:05.135Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="组件库的尝试" scheme="https://xxn123456.github.io/categories/%E7%BB%84%E4%BB%B6%E5%BA%93%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
+    
+    
+      <category term="私有组件库" scheme="https://xxn123456.github.io/tags/%E7%A7%81%E6%9C%89%E7%BB%84%E4%BB%B6%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跨平台开发</title>
+    <link href="https://xxn123456.github.io/2019/06/10/uniapp/kua-ping-tai-kai-fa/"/>
+    <id>https://xxn123456.github.io/2019/06/10/uniapp/kua-ping-tai-kai-fa/</id>
+    <published>2019-06-10T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:52.769Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hubuilder" scheme="https://xxn123456.github.io/categories/hubuilder/"/>
+    
+    
+      <category term="uniapp" scheme="https://xxn123456.github.io/tags/uniapp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css预处理器的使用</title>
+    <link href="https://xxn123456.github.io/2019/06/10/sass/yu-chu-li-qi/"/>
+    <id>https://xxn123456.github.io/2019/06/10/sass/yu-chu-li-qi/</id>
+    <published>2019-06-10T14:30:00.000Z</published>
+    <updated>2019-07-30T18:48:34.049Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="sass" scheme="https://xxn123456.github.io/categories/sass/"/>
+    
+    
+      <category term="sass 基本" scheme="https://xxn123456.github.io/tags/sass-%E5%9F%BA%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ngnix 开启跨域</title>
+    <link href="https://xxn123456.github.io/2019/02/14/nginx/ngnix-fu-wu-duan-kua-yu/"/>
+    <id>https://xxn123456.github.io/2019/02/14/nginx/ngnix-fu-wu-duan-kua-yu/</id>
+    <published>2019-02-14T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:47.289Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="ngnix" scheme="https://xxn123456.github.io/categories/ngnix/"/>
+    
+    
+      <category term="跨域问题" scheme="https://xxn123456.github.io/tags/%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vuex 语法糖</title>
+    <link href="https://xxn123456.github.io/2019/01/10/vue/vuex-yu-fa/"/>
+    <id>https://xxn123456.github.io/2019/01/10/vue/vuex-yu-fa/</id>
+    <published>2019-01-10T14:30:00.000Z</published>
+    <updated>2019-07-31T03:21:23.963Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="vuex" scheme="https://xxn123456.github.io/categories/vuex/"/>
+    
+    
+      <category term="vuex语法糖" scheme="https://xxn123456.github.io/tags/vuex%E8%AF%AD%E6%B3%95%E7%B3%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ele 图片上传流程</title>
+    <link href="https://xxn123456.github.io/2018/10/20/element/ele-wen-jian-shang-chuan/"/>
+    <id>https://xxn123456.github.io/2018/10/20/element/ele-wen-jian-shang-chuan/</id>
+    <published>2018-10-20T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:10.127Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="element" scheme="https://xxn123456.github.io/categories/element/"/>
+    
+    
+      <category term="element ui" scheme="https://xxn123456.github.io/tags/element-ui/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rem 适配问题</title>
+    <link href="https://xxn123456.github.io/2018/10/10/h5/rem-gua-pei-wen-ti/"/>
+    <id>https://xxn123456.github.io/2018/10/10/h5/rem-gua-pei-wen-ti/</id>
+    <published>2018-10-10T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:14.657Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="手机端" scheme="https://xxn123456.github.io/categories/%E6%89%8B%E6%9C%BA%E7%AB%AF/"/>
+    
+    
+      <category term="适配" scheme="https://xxn123456.github.io/tags/%E9%80%82%E9%85%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小程序登陆授权问题</title>
+    <link href="https://xxn123456.github.io/2018/10/10/wei-xin-xiao-cheng-xu/deng-lu-shou-quan/"/>
+    <id>https://xxn123456.github.io/2018/10/10/wei-xin-xiao-cheng-xu/deng-lu-shou-quan/</id>
+    <published>2018-10-10T14:30:00.000Z</published>
+    <updated>2019-07-31T03:19:59.881Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="微信小程序" scheme="https://xxn123456.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+      <category term="小程序" scheme="https://xxn123456.github.io/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>swiper 插件的使用</title>
+    <link href="https://xxn123456.github.io/2018/10/09/qian-duan-gong-ju/swiper/"/>
+    <id>https://xxn123456.github.io/2018/10/09/qian-duan-gong-ju/swiper/</id>
+    <published>2018-10-09T14:30:00.000Z</published>
+    <updated>2019-07-31T03:19:34.558Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="前端工具" scheme="https://xxn123456.github.io/categories/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="插件" scheme="https://xxn123456.github.io/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 心目的博客终于开通了</title>
+    <link href="https://xxn123456.github.io/2018/10/08/sheng-huo/1/"/>
+    <id>https://xxn123456.github.io/2018/10/08/sheng-huo/1/</id>
+    <published>2018-10-08T14:30:00.000Z</published>
+    <updated>2019-07-31T03:19:54.854Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="生活" scheme="https://xxn123456.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活大事件" scheme="https://xxn123456.github.io/tags/%E7%94%9F%E6%B4%BB%E5%A4%A7%E4%BA%8B%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>轻量级滚动动画JavaScript库aos.js</title>
+    <link href="https://xxn123456.github.io/2018/10/08/javascript/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/"/>
+    <id>https://xxn123456.github.io/2018/10/08/javascript/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/</id>
+    <published>2018-10-08T14:30:00.000Z</published>
+    <updated>2019-07-31T03:20:23.838Z</updated>
     
     <summary type="html">
     
@@ -29,34 +209,25 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;一个 bug 被隐藏的时间越长，修复这个 bug 的代价就越大。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我曾经在 &lt;a
+          &lt;h2 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://michalsnik.github.io/aos/&quot; target=&quot;_blank&quot;
         
       
     
     </summary>
     
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+      <category term="www" scheme="https://xxn123456.github.io/categories/www/"/>
     
     
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="单元测试" scheme="https://xxn123456.github.io/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="Spring" scheme="https://xxn123456.github.io/tags/Spring/"/>
-    
-      <category term="SpringBoot" scheme="https://xxn123456.github.io/tags/SpringBoot/"/>
+      <category term="JavaScript" scheme="https://xxn123456.github.io/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
-    <title>Java代码性能评估库Stalker介绍</title>
-    <link href="https://xxn123456.github.io/2019/02/14/hou-duan/java/java-dai-ma-xing-neng-ping-gu-ku-stalker-jie-shao/"/>
-    <id>https://xxn123456.github.io/2019/02/14/hou-duan/java/java-dai-ma-xing-neng-ping-gu-ku-stalker-jie-shao/</id>
-    <published>2019-02-14T04:00:00.000Z</published>
-    <updated>2019-07-24T15:13:21.918Z</updated>
+    <title>全功能JavaScript灯箱画廊插件lightgallery.js</title>
+    <link href="https://xxn123456.github.io/2018/10/06/javascript/quan-gong-neng-javascript-deng-xiang-hua-lang-cha-jian-lightgallery.js/"/>
+    <id>https://xxn123456.github.io/2018/10/06/javascript/quan-gong-neng-javascript-deng-xiang-hua-lang-cha-jian-lightgallery.js/</id>
+    <published>2018-10-06T15:30:00.000Z</published>
+    <updated>2019-07-31T03:20:28.024Z</updated>
     
     <summary type="html">
     
@@ -64,502 +235,8 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://github.com/blinkfox/stalker/blob/master/README.md&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;English
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="性能测试" scheme="https://xxn123456.github.io/tags/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个极简的 Java ASCII 表格生成库</title>
-    <link href="https://xxn123456.github.io/2019/01/25/hou-duan/java/yi-ge-ji-jian-de-java-ascii-biao-ge-sheng-cheng-ku/"/>
-    <id>https://xxn123456.github.io/2019/01/25/hou-duan/java/yi-ge-ji-jian-de-java-ascii-biao-ge-sheng-cheng-ku/</id>
-    <published>2019-01-25T02:34:00.000Z</published>
-    <updated>2019-07-24T15:13:21.930Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;一个轻量级、零依赖的 Java ASCII 表格生成库。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;特性&quot;&gt;&lt;a href=&quot;#特性&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之桥接模式</title>
-    <link href="https://xxn123456.github.io/2018/12/19/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-qiao-jie-mo-shi/"/>
-    <id>https://xxn123456.github.io/2018/12/19/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-qiao-jie-mo-shi/</id>
-    <published>2018-12-18T16:20:00.000Z</published>
-    <updated>2019-07-24T15:13:21.965Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="设计模式" scheme="https://xxn123456.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之适配器模式</title>
-    <link href="https://xxn123456.github.io/2018/12/12/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-gua-pei-qi-mo-shi/"/>
-    <id>https://xxn123456.github.io/2018/12/12/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-gua-pei-qi-mo-shi/</id>
-    <published>2018-12-12T14:00:00.000Z</published>
-    <updated>2019-07-24T15:13:21.970Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="设计模式" scheme="https://xxn123456.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>软件程序设计原则</title>
-    <link href="https://xxn123456.github.io/2018/11/24/ruan-jian-she-ji/ruan-jian-cheng-xu-she-ji-yuan-ze/"/>
-    <id>https://xxn123456.github.io/2018/11/24/ruan-jian-she-ji/ruan-jian-cheng-xu-she-ji-yuan-ze/</id>
-    <published>2018-11-23T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.971Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="面向对象编程" scheme="https://xxn123456.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
-    
-      <category term="设计原则" scheme="https://xxn123456.github.io/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GitLab CI/CD 介绍和使用</title>
-    <link href="https://xxn123456.github.io/2018/11/22/ruan-jian-gong-ju/devops/gitlab-ci-jie-shao-he-shi-yong/"/>
-    <id>https://xxn123456.github.io/2018/11/22/ruan-jian-gong-ju/devops/gitlab-ci-jie-shao-he-shi-yong/</id>
-    <published>2018-11-22T15:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.954Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、持续集成介绍&quot;&gt;&lt;a href=&quot;#一、持续集成介绍&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件工具" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="GitLab CI" scheme="https://xxn123456.github.io/tags/GitLab-CI/"/>
-    
-      <category term="DevOps" scheme="https://xxn123456.github.io/tags/DevOps/"/>
-    
-      <category term="Jenkins" scheme="https://xxn123456.github.io/tags/Jenkins/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Vue 文档风格的 Typora 主题</title>
-    <link href="https://xxn123456.github.io/2018/11/19/ruan-jian-gong-ju/markdown/vue-wen-dang-feng-ge-de-typora-zhu-ti/"/>
-    <id>https://xxn123456.github.io/2018/11/19/ruan-jian-gong-ju/markdown/vue-wen-dang-feng-ge-de-typora-zhu-ti/</id>
-    <published>2018-11-18T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.953Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/blinkfox/typora-vue-theme&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;typora-vue-theme&lt;/a&gt; 是 Typora
-        
-      
-    
-    </summary>
-    
-      <category term="软件工具" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="Typora" scheme="https://xxn123456.github.io/tags/Typora/"/>
-    
-      <category term="Markdown" scheme="https://xxn123456.github.io/tags/Markdown/"/>
-    
-      <category term="Vue" scheme="https://xxn123456.github.io/tags/Vue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CPU多级缓存</title>
-    <link href="https://xxn123456.github.io/2018/11/18/ruan-jian-gong-ju/cpu-duo-ji-huan-cun/"/>
-    <id>https://xxn123456.github.io/2018/11/18/ruan-jian-gong-ju/cpu-duo-ji-huan-cun/</id>
-    <published>2018-11-18T13:55:00.000Z</published>
-    <updated>2019-07-24T15:13:21.943Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、什么是CPU缓存&quot;&gt;&lt;a href=&quot;#一、什么是CPU缓存&quot; class=&quot;headerlink&quot; title=&quot;一、什么是CPU缓存&quot;&gt;&lt;/a&gt;一、什么是CPU缓存&lt;/h2&gt;&lt;h3 id=&quot;1-CPU缓存的来历&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="软件工具" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="CPU缓存" scheme="https://xxn123456.github.io/tags/CPU%E7%BC%93%E5%AD%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>单元测试指南</title>
-    <link href="https://xxn123456.github.io/2018/11/15/hou-duan/java/dan-yuan-ce-shi-zhi-nan/"/>
-    <id>https://xxn123456.github.io/2018/11/15/hou-duan/java/dan-yuan-ce-shi-zhi-nan/</id>
-    <published>2018-11-15T14:50:00.000Z</published>
-    <updated>2019-07-24T15:13:21.934Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、必要性&quot;&gt;&lt;a href=&quot;#一、必要性&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="单元测试" scheme="https://xxn123456.github.io/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8新特性及使用(二)</title>
-    <link href="https://xxn123456.github.io/2018/11/14/hou-duan/java/java8-xin-te-xing-ji-shi-yong-er/"/>
-    <id>https://xxn123456.github.io/2018/11/14/hou-duan/java/java8-xin-te-xing-ji-shi-yong-er/</id>
-    <published>2018-11-14T14:00:00.000Z</published>
-    <updated>2019-07-24T15:13:21.917Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;扩展注解的支持&quot;&gt;&lt;a href=&quot;#扩展注解的支持&quot; class=&quot;headerlink&quot; title=&quot;扩展注解的支持&quot;&gt;&lt;/a&gt;扩展注解的支持&lt;/h2&gt;&lt;p&gt;Java
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8新特性及使用(一)</title>
-    <link href="https://xxn123456.github.io/2018/11/13/hou-duan/java/java8-xin-te-xing-ji-shi-yong-yi/"/>
-    <id>https://xxn123456.github.io/2018/11/13/hou-duan/java/java8-xin-te-xing-ji-shi-yong-yi/</id>
-    <published>2018-11-13T14:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.916Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java8中的引入的部分新特性。关于Java8新特性更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java7新特性及使用</title>
-    <link href="https://xxn123456.github.io/2018/11/12/hou-duan/java/java7-xin-te-xing-ji-shi-yong/"/>
-    <id>https://xxn123456.github.io/2018/11/12/hou-duan/java/java7-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-11T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.915Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java7中的引入的部分新特性。关于Java7更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java6新特性及使用</title>
-    <link href="https://xxn123456.github.io/2018/11/11/hou-duan/java/java6-xin-te-xing-ji-shi-yong/"/>
-    <id>https://xxn123456.github.io/2018/11/11/hou-duan/java/java6-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-11T14:40:00.000Z</published>
-    <updated>2019-07-24T15:13:21.914Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java6中的引入的部分新特性，相比Java5的新特性就少了很多了。关于Java6更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java5新特性及使用</title>
-    <link href="https://xxn123456.github.io/2018/11/09/hou-duan/java/java5-xin-te-xing-ji-shi-yong/"/>
-    <id>https://xxn123456.github.io/2018/11/09/hou-duan/java/java5-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-08T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.912Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java5中的引入的部分新特性，关于更详细的新特性了解，可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java注解的理解和应用</title>
-    <link href="https://xxn123456.github.io/2018/11/08/hou-duan/java/java-zhu-jie-de-li-jie-he-ying-yong/"/>
-    <id>https://xxn123456.github.io/2018/11/08/hou-duan/java/java-zhu-jie-de-li-jie-he-ying-yong/</id>
-    <published>2018-11-07T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.921Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;1-什么是注解&quot;&gt;&lt;a href=&quot;#1-什么是注解&quot; class=&quot;headerlink&quot; title=&quot;1.
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java反射基础</title>
-    <link href="https://xxn123456.github.io/2018/11/07/hou-duan/java/java-fan-she-ji-chu/"/>
-    <id>https://xxn123456.github.io/2018/11/07/hou-duan/java/java-fan-she-ji-chu/</id>
-    <published>2018-11-07T13:40:00.000Z</published>
-    <updated>2019-07-24T15:13:21.919Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、概述&quot;&gt;&lt;a href=&quot;#一、概述&quot; class=&quot;headerlink&quot; title=&quot;一、概述&quot;&gt;&lt;/a&gt;一、概述&lt;/h2&gt;&lt;h3 id=&quot;1-简介&quot;&gt;&lt;a href=&quot;#1-简介&quot; class=&quot;headerlink&quot; title=&quot;1.
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java IO 知识整理</title>
-    <link href="https://xxn123456.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/"/>
-    <id>https://xxn123456.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/</id>
-    <published>2018-11-05T03:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.911Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;各IO类关系梳理&quot;&gt;&lt;a href=&quot;#各IO类关系梳理&quot; class=&quot;headerlink&quot; title=&quot;各IO类关系梳理&quot;&gt;&lt;/a&gt;各IO类关系梳理&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;InputStream: Java
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://xxn123456.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之责任链模式</title>
-    <link href="https://xxn123456.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/"/>
-    <id>https://xxn123456.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/</id>
-    <published>2018-11-04T14:00:00.000Z</published>
-    <updated>2019-07-24T15:13:21.969Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://xxn123456.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://xxn123456.github.io/tags/Java/"/>
-    
-      <category term="设计模式" scheme="https://xxn123456.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript之再学习</title>
-    <link href="https://xxn123456.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/"/>
-    <id>https://xxn123456.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/</id>
-    <published>2018-10-29T16:30:00.000Z</published>
-    <updated>2019-07-24T15:13:21.905Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;概览&quot;&gt;&lt;a href=&quot;#概览&quot; class=&quot;headerlink&quot; title=&quot;概览&quot;&gt;&lt;/a&gt;概览&lt;/h2&gt;&lt;p&gt;JavaScript 是一种面向对象的动态语言，它包含类型、运算符、标准内置（ built-in）对象和方法。它的语法来源于 Java 和
+          &lt;h3 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a
         
       
     
@@ -569,6 +246,86 @@
     
     
       <category term="JavaScript" scheme="https://xxn123456.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客介绍</title>
+    <link href="https://xxn123456.github.io/2018/09/28/hexo/hexo-bo-ke-zhu-ti-zhi-hexo-theme-matery-de-jie-shao/"/>
+    <id>https://xxn123456.github.io/2018/09/28/hexo/hexo-bo-ke-zhu-ti-zhi-hexo-theme-matery-de-jie-shao/</id>
+    <published>2018-09-28T05:34:00.000Z</published>
+    <updated>2019-07-30T18:51:55.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;README.md&quot;&gt;English Document&lt;/a&gt; | &lt;a href=&quot;https://blinkfox.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;演示示例&lt;/a&gt; |
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://xxn123456.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Hexo" scheme="https://xxn123456.github.io/tags/Hexo/"/>
+    
+      <category term="hexo-theme-matery" scheme="https://xxn123456.github.io/tags/hexo-theme-matery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基础教程</title>
+    <link href="https://xxn123456.github.io/2018/09/14/javascript/javascript-ji-chu-jiao-cheng/"/>
+    <id>https://xxn123456.github.io/2018/09/14/javascript/javascript-ji-chu-jiao-cheng/</id>
+    <published>2018-09-13T16:12:00.000Z</published>
+    <updated>2019-07-31T03:20:34.164Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、JavaScript介绍&quot;&gt;&lt;a href=&quot;#一、JavaScript介绍&quot; class=&quot;headerlink&quot; title=&quot;一、JavaScript介绍&quot;&gt;&lt;/a&gt;一、JavaScript介绍&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://xxn123456.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://xxn123456.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xxn123456.github.io/2018/09/12/hello-world/"/>
+    <id>https://xxn123456.github.io/2018/09/12/hello-world/</id>
+    <published>2018-09-12T14:25:00.000Z</published>
+    <updated>2019-07-24T15:13:21.902Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://xxn123456.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="Hexo" scheme="https://xxn123456.github.io/tags/Hexo/"/>
     
   </entry>
   
